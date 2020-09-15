@@ -1,0 +1,1 @@
+In this example we’ll show how we can use the combination of H2O for developing a complex model with high predictive accuracy on unseen data and then how we can use LIME to understand important features related to employee attrition.
