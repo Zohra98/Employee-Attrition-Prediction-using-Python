@@ -1,0 +1,1 @@
+With these new automated ML tools combined with tools to uncover critical variables, we now have capabilities for both extreme predictive accuracy and understandability, which was previously impossible! We’ll investigate an HR Analytic example of employee attrition that was evaluated by IBM Watson.
